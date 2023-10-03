@@ -5,7 +5,7 @@ This visual essay is a collaboration between Master of Information graduate stud
 ### Introduction and Early Career
 .ve-media wc:Lewis_latimer.jpg left width=80% caption="Lewis Latimer"
 
-==Lewis Latimer=={Q732229} Lewis Howard Latimer (1848-1928) was a man of extraordinary talent and character. A self-taught draftsman and inventor, he joined the Edison electrical companies in the mid-1880s and remained with them until the 1892 formation of General Electric, with whom he stayed for nearly two decades. 
+==Lewis Howard Latimer (1848-1928)=={Q732229} was a man of extraordinary talent and character. A self-taught draftsman and inventor, he joined the Edison electrical companies in the mid-1880s and remained with them until the 1892 formation of General Electric, with whom he stayed for nearly two decades. 
 
 Latimer constructed both his personal life and his technical career as concrete examples of his philosophical approach to the place of blacks in American life after the Civil War. Although some African Americans proposed resegregating themselves, and others thought that freedmen's occupational advance should proceed by small steps (and take several generations), Latimer preferred to insist that blacks were full American citizens, and he conducted himself accordingly. Applying his own considerable talent to the opportunities that presented themselves, Latimer chose to position himself as an example to both races of what could be accomplished in a context of racial integration and unhesitating professional aspiration.
 
