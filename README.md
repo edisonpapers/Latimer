@@ -1,4 +1,4 @@
-.ve-header "Inventing a Better Life: Latimer's Technical Career" default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg  "A Digital Exhibit" pct:20,53,20,20 center sticky
+.ve-header "Inventing a Better Life: Latimer's Technical Career" default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg  "A Visual Essay" pct:20,53,20,20 center sticky
 
 This exhibit is a collaboration between Master of Information graduate student Erin Mustard , ==Edison Papers=={Q107417971} Director Paul Israel,  and Nicole Wines, who helps the project develop its digital and public humanities outreach.
 
