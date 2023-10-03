@@ -13,7 +13,7 @@ In his early career in Boston, Latimer was surrounded by technological communiti
 
 .ve-media default:https%3A/edison.rutgers.edu/images/latimer/culture/drftools.jpg left width=70% caption="Drawing" 
 
-Latimer began, as he recalled, with "a taste for drawing" and became proficient as a draftsman. He also tried his hand at inventing. His [first patent](#my-header) was granted in 1874, describing an improved water closet for railway cars.  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
+Latimer began, as he recalled, with "a taste for drawing" and became proficient as a draftsman. He also tried his hand at inventing. His [first patent](#my-header) was granted in 1874, describing an improved water closet for railway cars.  Latimer received his first patent in 1874, with co-inventor Charles W. Brown, for an improved water closet for railway cars.  Reading the application, a modern observer would probably agree that their "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, existing designs were
 
 
 >*neither agreeable to use nor wholly safe, the draft through the hopper being always excessive, while the annoyance from dust, cinders, and other matters thrown up from the track is so great as to forbid or discourage the use of the apparatus except under extreme circumstances.*
