@@ -1,5 +1,9 @@
 .ve-header "Inventing a Better Life: Latimer's Technical Career" default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg  "A Digital Exhibit" pct:20,53,20,20 center sticky
 
+This exhibit is a collaboration between Master of Information graduate student Erin Mustard , ==Edison Papers=={Q107417971} Director Paul Israel,  and Nicole Wines, who helps the project develop its digital and public humanities outreach.
+
+## Introduction 
+
 Lewis Howard Latimer (1848-1928) was a man of extraordinary talent and character. A self-taught draftsman and inventor, he joined the Edison electrical companies in the mid-1880s and remained with them until the 1892 formation of General Electric, with whom he stayed for nearly two decades. In 1995 the Queens Borough Public Library, which holds a collection of Latimer's papers and artifacts, mounted Blueprint for Change, an exhibit exploring and honoring his life and work, accompanied by a catalog of the same name. The following visual essay is adapted from Bayla Singer’s essay “Inventing a Better Life: Latimer's Technical Career.”
 
 ### Introduction and Early Career
