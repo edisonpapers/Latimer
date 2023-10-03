@@ -131,8 +131,7 @@ In 1918, Latimer became a founding member of a rather exclusive social group: th
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg left width=70% caption="The Edison Pioneers, 1918" 
 
-.ve-media https://npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg
-
+.ve-media https://npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg left width=70% caption="The Edison Pioneers, 1918" 
 
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way it is noteworthy that ==Latimer=={1846,1529,426,537}, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
 
