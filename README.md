@@ -1,6 +1,6 @@
 .ve-header "Inventing a Better Life: Latimer's Technical Career" default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg  "A Visual Essay" pct:20,53,20,20 center sticky
 
-This visual essay is a collaboration between Master of Information graduate student Erin Mustard , ==Edison Papers=={Q107417971} Director Paul Israel,  and Nicole Wines, who helps the project develop its digital and public humanities outreach. It is adapted from Bayla Singer’s essay, “Inventing a Better Life: Latimer's Technical Career," which was included Blueprint for Change, the catalog for an exhibit about Lewis Howard Latimer (1848-1928) held at the Queens Public Library in 1995.
+This visual essay is a collaboration between Master of Information graduate student Erin Mustard , ==Edison Papers=={Q107417971} Director Paul Israel,  and Nicole Wines, who helps the project develop its digital and public humanities outreach. It is adapted from Bayla Singer’s essay, “Inventing a Better Life: Latimer's Technical Career," which was included in Blueprint for Change, the catalog for an exhibit about Lewis Howard Latimer (1848-1928) held at the Queens Public Library in 1995.
 
 ## Introduction 
 
