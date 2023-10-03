@@ -131,6 +131,9 @@ In 1918, Latimer became a founding member of a rather exclusive social group: th
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg left width=70% caption="The Edison Pioneers, 1918" 
 
+.ve-media https://npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg
+
+
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way it is noteworthy that ==Latimer=={1846,1529,426,537}, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
 
 Situations in which Latimer proved that "a colored man" was capable of highly technical work are a recurrent thread in Latimer's recollections. From Crosby and Gould in Boston, to Maxim in Bridgeport, to the English "bosses" and Latimer's fellow employees in the Edison shops, supervisors as well as coworkers needed convincing. Latimer prevailed repeatedly, and the quality of his work and personality kept him employed through several corporate reorganizations. Later reminiscences by those who knew him professionally portray him as dignified, competent, and friendly. Surviving copies of warm correspondence with professional colleagues reinforce the image of a man moving easily within predominantly European American professional circles. When the professional sphere began to shade into the social, Latimer maintained the place he had earned, while never losing touch with his roots.
