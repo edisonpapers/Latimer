@@ -26,16 +26,6 @@ In Latimer's later years, he recalled that he had made "the drawings for the app
 
 Latimer's personal association with Bell just before Bell's spectacular success must have reinforced Latimer's determination to make his own future in technology.
 
-.ve-map Q6536637 16 marker left width=90% 
-    
-.ve-media https://raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_House.jpg width=65% right caption="Latimer House" {.clear}
-
-It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
-    
-These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. In these collections, material of a technical nature falls roughly into two large groups: one group originating in the period 1870-1890 (with a few later items), and the other group from the twentieth century, mostly after 1910. Since Latimer purchased the Holly Street house in 1903, items dated in the 1870s and 1880s probably were intentionally saved by Latimer himself or by his wife Mary. Among these early materials are a large group of drawings signed "L. H. Latimer, Inventor," a number of other drawings, about fifty technical and nontechnical books, and Mary's diary of the first four months of 1882, a time she and Latimer spent in London.
-
-As one might expect, Latimer's home contained loving mementos of his family life and ample evidence of his lifelong activities in the arts, music, and literature. Also among Latimer's effects were letters from African American notables ==Richard Greener=={Q7329434}, ==Victoria Earle Mathews=={Q7926692}, ==Booker T. Washington=={Q319871}, ==Samuel Scottron=={Q7412436}, ==William Ferris=={Q8010398}, ==Frederick Douglass=={Q215562}, and Haiti's Bishop ==James Theodore Holly=={Q6144121}. There were also warm letters from Latimer's European American professional associates, including his former employer ==Hiram Maxim=={Q315601}, his last employers Edwin Hammer & Elmer Schwarz, and fellow members of the ==Edison Pioneers=={Q4363182} E A. Wardlaw and W. R Meadowcroft.
-
 ### Early Career 
 
 After leaving Boston, Latimer arrived in Bridgeport, Connecticut shortly after his thirty-first birthday. He immediately set about making himself useful in the technical community of this busy seaport. Although his stay in Bridgeport was brief, it proved to be a turning point in his career.
@@ -202,4 +192,16 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT255212 left width=70% caption="Tregoning and Latimer's Globe Supporter for Electric Lamps"
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT247097 right width=70% caption="Nichols and Latimer's Electric Lamp"
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT781890 left width=70% caption="Latimer's Book Supporter"
+
+### Latimer House
+
+.ve-map Q6536637 16 marker left width=90% 
+    
+.ve-media https://raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_House.jpg width=65% right caption="Latimer House" {.clear}
+
+It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
+    
+These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. In these collections, material of a technical nature falls roughly into two large groups: one group originating in the period 1870-1890 (with a few later items), and the other group from the twentieth century, mostly after 1910. Since Latimer purchased the Holly Street house in 1903, items dated in the 1870s and 1880s probably were intentionally saved by Latimer himself or by his wife Mary. Among these early materials are a large group of drawings signed "L. H. Latimer, Inventor," a number of other drawings, about fifty technical and nontechnical books, and Mary's diary of the first four months of 1882, a time she and Latimer spent in London.
+
+As one might expect, Latimer's home contained loving mementos of his family life and ample evidence of his lifelong activities in the arts, music, and literature. Also among Latimer's effects were letters from African American notables ==Richard Greener=={Q7329434}, ==Victoria Earle Mathews=={Q7926692}, ==Booker T. Washington=={Q319871}, ==Samuel Scottron=={Q7412436}, ==William Ferris=={Q8010398}, ==Frederick Douglass=={Q215562}, and Haiti's Bishop ==James Theodore Holly=={Q6144121}. There were also warm letters from Latimer's European American professional associates, including his former employer ==Hiram Maxim=={Q315601}, his last employers Edwin Hammer & Elmer Schwarz, and fellow members of the ==Edison Pioneers=={Q4363182} E A. Wardlaw and W. H. Meadowcroft.
 
