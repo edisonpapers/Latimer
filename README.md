@@ -26,7 +26,7 @@ Latimer's personal association with Bell just before Bell's spectacular success 
 
 .ve-map Q6536637 16 marker left width=90% 
     
-.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_House.jpg width=65% right caption="Latimer House" {.clear}
+.ve-media https://raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_House.jpg width=65% right caption="Latimer House" {.clear}
 
 It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
     
