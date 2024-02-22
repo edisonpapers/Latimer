@@ -59,7 +59,7 @@ Commercial lamp production, which began in the fall of 1880, was particularly su
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/d8133zam/manifest left width=80% height=200px region=-7,28,703,308
 
-Other bugs appeared when Edison's new elecrical system was exhibited in Paris and London. In November 1881, when Edward Johnson was setting up Edison's exhibit at the Crystal Palace Exhibition in London, he planned to improve on the record of Edison's earlier exhibit at the Paris Electrical Exhibition explaining that, "The one thing which Paris failed most conspicuously in was 'Reliability' I am therefore 'going for' that 'Bug' more particularly than any other—though there are others almost as important". In response to Johnson's letter, Edison advised him that:
+Other bugs appeared when Edison's new elecrical system was exhibited in Paris and London. In November 1881, when Edward Johnson was setting up Edison's exhibit at the Crystal Palace Exhibition in London, he planned to improve on the record of Edison's earlier exhibit at the Paris Electrical Exhibition explaining that, "The one thing which Paris failed most conspicuously in was 'Reliability' I am therefore 'going for' that 'Bug' more particularly than any other—though there are others almost as important." In response to Johnson's letter, Edison advised him that:
 
 > The Belts are liable to slip so you want to look out that all your belts are tight as this is a bad bug when running the machines in multiple arc as if some of the belts are loose the other machines will do all the work and it will be like putting 100 lights on a machine.
 
