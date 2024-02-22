@@ -73,7 +73,9 @@ The earliest use of the term "bug" appears in an article by James Ashley, the ed
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PAT274112/manifest right seq=3 width=60% region=165,1808,967,1421
 
-By the mid-1880s, Edison's bug trap appeared in books and articles about the quadruplex and another inventor even patented an improvement on "bug-traps" for telegraph receivers. By the end of the decade, Edwin Houston defined both bugs and bug-traps in his 1889 *Dictionary of Electrical Words, Terms and Phrases*:
+By the mid-1880s, Edison's bug trap appeared in books and articles about the quadruplex and another inventor even patented an improvement on "bug-traps" for telegraph receiving instruments. 
+
+At the end of the decade, Edwin Houston defined both bugs and bug-traps in his 1889 *Dictionary of Electrical Words, Terms and Phrases*:
 
 > Bug. A term originally limited to quadruplex telegraphy to designate any fault in the operation of the apparatus. This term is not employed, to a limited extent, for faults in the operation of electric apparatus in general.
 
