@@ -110,7 +110,7 @@ By 1890, central-station electric utilities serving whole towns or large areas o
 
 Latimer's book combined lucid technical description with a touch of poetry. In describing the mechanics of the light, he wrote,
 
-.ve-media https://iiif.archive.org/iiif/3/bub_gb_RlY4AAAAMAAJ/manifest.json right width=70% seq=45 caption="Incandescent Electric Lighting"
+.ve-media https://iiif.archive.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json right width=70% seq=45 caption="Incandescent Electric Lighting"
 
 >*==If the electric current can be forced through a substance that is a poor conductor, it will create a degree of heat in that substance, which will be greater or less according to the quantity of electricity forced through it. Upon this principle of the heating effect of the electrical current, is based the operation of the incandescent lamp . . . Where copper and platinum wires readily conduct the current, the carbon filament offers a great deal of resistance to its passage, and for this reason becomes very hot, in fact is raised to white heat or incandescence, which gives its name to the lamp.=={500,700,1700,200}* [^25]
 
